@@ -1,2 +1,2 @@
-# bac-buddy-web
-Official website for BAC Buddy.
+# BAC Buddy — Drink Responsibly
+The official website for BAC Buddy, the live blood alcohol content calculator!
